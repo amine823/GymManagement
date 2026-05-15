@@ -8,6 +8,24 @@ GymManagement is a desktop application built to help gyms efficiently manage mem
 
 This project is designed to simulate a real-world gym management system where administrators can handle member records, track subscriptions, and organize gym activities in an efficient and structured way. The application focuses on usability, clean design, and practical data management.
 
+## 📑 Table of Contents
+
+- [📌 Overview](#-overview)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [✨ Features](#-features)
+  - [👤 Member Management](#-member-management)
+  - [📅 Subscription System](#-subscription-system)
+  - [📊 Admin Dashboard](#-admin-dashboard)
+  - [🎨 UI / UX](#-ui--ux)
+- [📁 Project Structure](#-project-structure)
+- [🚀 How to Run the Project](#-how-to-run-the-project)
+  - [1. Install dependencies](#1-install-dependencies)
+  - [2. Run the application](#2-run-the-application)
+- [📸 Screenshots](#-screenshots)
+- [🎯 Purpose](#-purpose)
+- [👨‍💻 Author](#-author)
+- [📌 Note](#-note)
+
 ---
 
 ## 🛠️ Tech Stack
